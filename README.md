@@ -1,4 +1,4 @@
-#Guess The Number! V2.0
+# Guess The Number! V2.0
 
 This is an updated version of the original GTN game, but this time with a GUI!
 
